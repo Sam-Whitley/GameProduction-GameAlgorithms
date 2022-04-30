@@ -1,2 +1,2 @@
-# GameProduction-INTIP19X6-Spring-2022
+# Game Production (INTIP19X6) | Game Algorithms
 Display of Skills - Movement / Pathfinding
